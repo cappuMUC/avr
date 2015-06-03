@@ -38,3 +38,9 @@ FILE* uart_stdout(void)
 {
 	return &uart_stdout;
 }
+
+
+ISR(UART_RX_vect)
+{
+	/* Make something with the RX data... */
+}
