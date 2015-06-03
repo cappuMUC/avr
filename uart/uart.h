@@ -3,7 +3,7 @@
  *
  * \brief UART library for Atmel 8bit microcontrollers
  *
- * \author Bernhard Rohloff <bernhard.rohloff@ruetz.de>
+ * \author Bernhard Rohloff <rohloff.bernhard@gmail.com>
  */
 
 /*
